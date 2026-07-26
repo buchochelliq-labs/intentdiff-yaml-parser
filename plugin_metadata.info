@@ -1,0 +1,14 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+# Plugin code exposes this data; the host still owns trust and provenance.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-05-19
+
+[language.yaml]
+language_name = Yaml
+language_short_name = Yaml
+monaco_language = yaml
+default_filename = data.yaml
+language_file_extensions = .yml, .yaml
